@@ -3,7 +3,7 @@ It covers the basics of Python
 >基本编程知识
 
 
--变量和数据类型
+-variate
 -输入和输出函数
 -常见运算符
 -if条件控制语句
