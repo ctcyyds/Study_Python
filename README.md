@@ -1,5 +1,5 @@
 # Study_Python
--It covers the basics of Python
+- It covers the basics of Python
 >基本编程知识
 
 
