@@ -10,4 +10,8 @@ for ele in s:
 s.add("li")
 print(s)
 
-# 移除
+# 移除（只能按照内容删除，不能按照索引）
+s.remove("li")
+s.discard("hahah")  # 如果移除不存在的成员不会报错
+s.pop()  # 随机移除一个元素
+#
